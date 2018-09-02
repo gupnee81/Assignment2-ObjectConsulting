@@ -1,0 +1,38 @@
+{
+  "name": "object-consulting",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "enzyme": "^3.5.0",
+    "enzyme-adapter-react-15": "^1.1.0",
+    "enzyme-to-json": "^3.3.4",
+    "jest": "^23.5.0",
+    "lodash": "^4.17.10",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-scripts": "1.1.5",
+    "styled-components": "^3.4.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "jest": {
+    "setupFiles": [
+      "<rootDir>/test-setup.js"
+    ],
+    "setupTestFrameworkScriptFile": "<rootDir>/test-setup.js",
+    "testPathIgnorePatterns": [
+      "<rootDir>[/\\\\](build|docs|node_modules|scripts)[/\\\\]"
+    ],
+    "transformIgnorePatterns": [
+      "[/\\\\]node_modules[/\\\\].+\\.(js|jsx)$"
+    ],
+    "moduleDirectories": [
+      "node_modules"
+    ]
+
+  }
+}
