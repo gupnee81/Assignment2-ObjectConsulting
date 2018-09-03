@@ -2,7 +2,7 @@ import React from 'react';
 import FilterPageStyles from '../../styles/FilterPanelStyles';
 import DropDownComponent from '../../components/DropDownComponent';
 import InputComponent from '../../components/InputComponent';
-import {currencyConverterList, orderByList, birthPlaceList} from '../../constants';
+import {currencyConverterList, orderByList} from '../../constants';
 import {populateUniqueContries} from '../../utils/populateUniqueContries';
 import FilterPanelStyles from '../../styles/FilterPanelStyles';
 
