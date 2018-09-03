@@ -17,7 +17,7 @@ http://localhost:3000
 4) npm start (to load application)
 
 
-Areas not addressed -
+### Areas not addressed -
 
 * Normalization of Search text box
 * Unit Test cases
