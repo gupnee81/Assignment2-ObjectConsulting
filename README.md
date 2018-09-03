@@ -6,5 +6,15 @@ Router to use to load application
 http://localhost:3000
 
 #### NPM Modules apart from basic
-* Lodash
-* Styled-component
+* lodash
+* styled-component
+
+### Steps to load application -
+
+1) git clone https://github.com/gupnee81/RichCelebrity.git
+2) npm i -g npm (in case npm is required to update)
+3) npm install ( to install depependencies)
+4) npm start (to load application)
+
+
+
