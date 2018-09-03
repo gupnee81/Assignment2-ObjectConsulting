@@ -21,3 +21,4 @@ Areas not addressed -
 
 * Normalization of Search text box
 * Unit Test cases
+* Automation test
