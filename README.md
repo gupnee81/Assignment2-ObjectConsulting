@@ -5,7 +5,7 @@ This is a project to implement sorting and seraching functionality, using ReactJ
 Router to use to load application
 http://localhost:3000
 
-### NPM Modules apart from basic
+### NPM modules apart from basic
 * lodash
 * styled-component
 
