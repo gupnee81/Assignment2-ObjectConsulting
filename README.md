@@ -24,3 +24,4 @@ http://localhost:3000
 * Normalization of Search text box
 * Unit Test cases
 * Automation test
+* Prop types
